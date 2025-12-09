@@ -1,0 +1,28 @@
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.exe
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.deps.json
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.runtimeconfig.json
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.pdb
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\refint\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.pdb
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\ref\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.exe
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.deps.json
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.runtimeconfig.json
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\bin\Debug\net10.0\EXERCITIUL 12.pdb
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\refint\EXERCITIUL 12.dll
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.pdb
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\EXERCITIUL 12.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Setul 2\EXERCITIUL 12\EXERCITIUL 12\obj\Debug\net10.0\ref\EXERCITIUL 12.dll
