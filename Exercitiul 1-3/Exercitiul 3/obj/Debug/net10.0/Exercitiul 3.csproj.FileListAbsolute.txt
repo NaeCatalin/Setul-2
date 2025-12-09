@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\bin\Debug\net10.0\Exercitiul 3.exe
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\bin\Debug\net10.0\Exercitiul 3.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\bin\Debug\net10.0\Exercitiul 3.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\bin\Debug\net10.0\Exercitiul 3.dll
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\bin\Debug\net10.0\Exercitiul 3.pdb
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.dll
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\refint\Exercitiul 3.dll
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.pdb
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\ref\Exercitiul 3.dll
